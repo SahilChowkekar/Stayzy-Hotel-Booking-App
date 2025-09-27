@@ -2,7 +2,7 @@
 
 Stayzy is a modern iOS application that helps users find and book hotels with ease. Built with SwiftUI and following MVVM architecture, it offers a seamless and intuitive user experience for hotel bookings.
 
-## 🌟 Features
+## Features
 
 - **User Authentication**
   - Sign In with Email/Password
@@ -40,7 +40,7 @@ Stayzy is a modern iOS application that helps users find and book hotels with ea
   - Digital boarding pass
   - Trip cancellation
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### Core Technologies
 - **Framework**: SwiftUI
@@ -107,9 +107,9 @@ Stayzy is a modern iOS application that helps users find and book hotels with ea
   - HTTPS for network calls
 - **Input Validation**: Custom validation rules
 
-## 📱 Screenshots
+## Screenshots
 
-## 🔐 Authentication Flow
+## Authentication Flow
 <table style="border: none; width: 100%; margin: 0 auto;">
 <tr>
 <td style="border: none; text-align: center; width: 50%;">
@@ -147,7 +147,7 @@ Stayzy is a modern iOS application that helps users find and book hotels with ea
 
 ---
 
-## ✨ Main Features
+## Main Features
 <table style="border: none; width: 100%; margin: 0 auto;">
 <tr>
 <td style="border: none; text-align: center; width: 50%;">
@@ -178,7 +178,7 @@ Stayzy is a modern iOS application that helps users find and book hotels with ea
 
 ---
 
-## 🗺️ Maps & Location
+## Maps & Location
 <table style="border: none; width: 100%; margin: 0 auto;">
 <tr>
 <td style="border: none; text-align: center; width: 50%;">
@@ -200,7 +200,7 @@ Stayzy is a modern iOS application that helps users find and book hotels with ea
 
 ---
 
-## 👤 User Profile & Trips
+## User Profile & Trips
 <table style="border: none; width: 100%; margin: 0 auto;">
 <tr>
 <td style="border: none; text-align: center; width: 50%;">
@@ -236,7 +236,7 @@ Stayzy is a modern iOS application that helps users find and book hotels with ea
 </tr>
 </table>
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository
 ```bash
@@ -266,7 +266,7 @@ open Stayzy.xcodeproj
 
 6. Build and run the project
 
-## 📋 Requirements
+## Requirements
 
 - iOS 15.0+
 - Xcode 13.0+
@@ -275,7 +275,7 @@ open Stayzy.xcodeproj
 - Google Maps API key (for map features)
 - CoreData setup
 
-## 🏗 Project Structure
+## Project Structure
 
 ```
 Stayzy/
@@ -310,7 +310,7 @@ Stayzy/
     └── Assets and configuration files
 ```
 
-## 🧪 Testing
+## Testing
 
 The project includes comprehensive unit tests and UI tests:
 
